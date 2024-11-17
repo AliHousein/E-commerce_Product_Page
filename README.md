@@ -31,8 +31,9 @@ Users should be able to:
 ![Desktop Size 1](./E-commerce_Product_Page/Screenshots/Desktop1.png)
 ![Desktop Size 2](./E-commerce_Product_Page/Screenshots/Desktop2.png)
 ![Desktop Size 3](./E-commerce_Product_Page/Screenshots/Desktop3.png)
- ![Desktop Size 4](./E-commerce_Product_Page/Screenshots/Desktop4.png)
+![Desktop Size 4](./E-commerce_Product_Page/Screenshots/Desktop4.png)
 
+<img src="./E-commerce_Product_Page/Screenshots/Mobile1.png" alt="drawing" width="200"/>
 ![Mobile Size 1](./E-commerce_Product_Page/Screenshots/Mobile1.png)
 ![Mobile Size 2](./E-commerce_Product_Page/Screenshots/Mobile2.png)
 ![Mobile Size 3](./E-commerce_Product_Page/Screenshots/Mobile3.png)
