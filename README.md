@@ -33,10 +33,10 @@ Users should be able to:
 ![Desktop Size 3](./E-commerce_Product_Page/Screenshots/Desktop3.png)
 ![Desktop Size 4](./E-commerce_Product_Page/Screenshots/Desktop4.png)
 
-<img src="./E-commerce_Product_Page/Screenshots/Mobile1.png" alt="drawing" width="200" style="display:inline"/>
-<img src="./E-commerce_Product_Page/Screenshots/Mobile2.png" alt="drawing" width="200" style="display:inline"/>
-<img src="./E-commerce_Product_Page/Screenshots/Mobile3.png" alt="drawing" width="200" style="display:inline"/>
-<img src="./E-commerce_Product_Page/Screenshots/Mobile4.png" alt="drawing" width="200" style="display:inline"/>
+<img src="./E-commerce_Product_Page/Screenshots/Mobile1.png" alt="drawing" width="200" style="display: inline-block"/>
+<img src="./E-commerce_Product_Page/Screenshots/Mobile2.png" alt="drawing" width="200" style="display: inline-block"/>
+<img src="./E-commerce_Product_Page/Screenshots/Mobile3.png" alt="drawing" width="200" style="display: inline-block"/>
+<img src="./E-commerce_Product_Page/Screenshots/Mobile4.png" alt="drawing" width="200" style="display: inline-block"/>
 
 
 ## My process:
