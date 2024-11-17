@@ -34,10 +34,9 @@ Users should be able to:
 ![Desktop Size 4](./E-commerce_Product_Page/Screenshots/Desktop4.png)
 
 <img src="./E-commerce_Product_Page/Screenshots/Mobile1.png" alt="drawing" width="200"/>
-![Mobile Size 1](./E-commerce_Product_Page/Screenshots/Mobile1.png)
-![Mobile Size 2](./E-commerce_Product_Page/Screenshots/Mobile2.png)
-![Mobile Size 3](./E-commerce_Product_Page/Screenshots/Mobile3.png)
-![Mobile Size 4](./E-commerce_Product_Page/Screenshots/Mobile4.png)
+<img src="./E-commerce_Product_Page/Screenshots/Mobile2.png" alt="drawing" width="200"/>
+<img src="./E-commerce_Product_Page/Screenshots/Mobile3.png" alt="drawing" width="200"/>
+<img src="./E-commerce_Product_Page/Screenshots/Mobile4.png" alt="drawing" width="200"/>
 
 
 ## My process:
