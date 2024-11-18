@@ -28,16 +28,17 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Size 1](./E-commerce_Product_Page/Screenshots/Desktop1.png)
-![Desktop Size 2](./E-commerce_Product_Page/Screenshots/Desktop2.png)
-![Desktop Size 3](./E-commerce_Product_Page/Screenshots/Desktop3.png)
-![Desktop Size 4](./E-commerce_Product_Page/Screenshots/Desktop4.png)
+![Desktop Size 1](./Screenshots/Desktop1.png)
+![Desktop Size 2](./Screenshots/Desktop2.png)
+![Desktop Size 3](./Screenshots/Desktop3.png)
+![Desktop Size 4](./Screenshots/Desktop4.png)
 
-<img src="./E-commerce_Product_Page/Screenshots/Mobile1.png" alt="drawing" width="200" style="display: inline-block"/>
-<img src="./E-commerce_Product_Page/Screenshots/Mobile2.png" alt="drawing" width="200" style="display: inline-block"/>
-<img src="./E-commerce_Product_Page/Screenshots/Mobile3.png" alt="drawing" width="200" style="display: inline-block"/>
-<img src="./E-commerce_Product_Page/Screenshots/Mobile4.png" alt="drawing" width="200" style="display: inline-block"/>
-
+<div style="display: inline-block">
+<img src="./Screenshots/Mobile1.png" alt="drawing" width="200"/>
+<img src="./Screenshots/Mobile2.png" alt="drawing" width="200"/>
+<img src="./Screenshots/Mobile3.png" alt="drawing" width="200"/>
+<img src="./Screenshots/Mobile4.png" alt="drawing" width="200"/>
+</div>
 
 ## My process:
 
